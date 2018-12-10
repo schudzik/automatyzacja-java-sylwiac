@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-public class Zadanie1
-
-{
+public class Zadanie1{
 
     public static void main(String[] args) {
 
@@ -19,6 +17,6 @@ public class Zadanie1
         }
 
 
-    }
+   }
 
 }
