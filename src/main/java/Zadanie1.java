@@ -15,6 +15,7 @@ public class Zadanie1 {
             zKlawiatury = odczyt.nextLine();
 
         }
+       System.out.println("Udało się, dziękuję");
     }
 
 }
